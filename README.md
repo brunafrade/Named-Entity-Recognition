@@ -5,5 +5,5 @@ NER is an information extraction technique to identify and classify named entiti
 
 complete Jupyter notebook for implementation of state-of-the-art Named Entity Recognition with bidirectional LSTMs and ELMo.
 
-using keras version 2.3.1 and tensorflow 2.2
+using keras version 2.3.1 and tensorflow 1.15.2
 
